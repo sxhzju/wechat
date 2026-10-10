@@ -1,0 +1,4 @@
+.env
+draft-result.json
+__pycache__/
+*.tmp
